@@ -50,8 +50,8 @@ GrowthProAI/
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/umeshyadav7988/growthpro-dashboard.git
-cd growthpro-dashboard
+git clone https://github.com/umeshyadav7988/GrowthProAI-Full-Stack-Intern-Assignment.git
+cd GrowthProAI-Full-Stack-Intern-Assignment
 ````
 
 #### 2. Start Backend
