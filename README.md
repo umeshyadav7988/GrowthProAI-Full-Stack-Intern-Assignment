@@ -1,4 +1,4 @@
-# 📊 Local Business Dashboard
+# 📊 GrowthProAI-Full-Stack-Intern-Assignment
 
 A mini dashboard to simulate how small businesses view their SEO content and Google Business data.
 
